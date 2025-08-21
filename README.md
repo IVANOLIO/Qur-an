@@ -29,8 +29,8 @@
 
 ### 1️⃣ استنساخ المشروع
 ```bash
-git clone https://github.com/IVANOLIO/quran-bot.git
-cd quran-bot
+git clone https://github.com/IVANOLIO/Qur-an.git
+cd Qur-an
 
 2️⃣ إنشاء بيئة افتراضية وتثبيت المكتبات
 
@@ -51,7 +51,7 @@ cp .env.example .env
 
 ▶️ التشغيل
 
-python qu.py
+python3 qu.py
 
 سيبدأ البوت في العمل والرد على الأوامر.
 
